@@ -1,4 +1,5 @@
 # learning-demo
-this is my  first repository
+
+this is my first repository
 <br>
-author-Aman Gahukar
+author-Aman Gahukar author of github
